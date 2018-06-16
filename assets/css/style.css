@@ -1,0 +1,8 @@
+body {
+    background-image: url("../images/videogamesbg.jpg");
+}
+
+.jumbotron {
+    margin: auto;
+    width: 960px;
+}
